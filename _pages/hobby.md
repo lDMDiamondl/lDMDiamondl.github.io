@@ -4,11 +4,11 @@ title: "Hobby"
 author_profile: true
 ---
 
-> I translate video games as a hobby.
+I translate video games as a hobby.
 
 ---
 
-## Translated Games List
+## Translated Games
 
 <style>
 .game-grid {
