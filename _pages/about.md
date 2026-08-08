@@ -14,7 +14,8 @@ I was an undergraduate researcher at [MINES Lab](https://prof.sejong.ac.kr/hyung
 
 ## Research Interests
 
-- **WIP:** WIP
+- **Computer Vision:** Image Understanding, 3D Vision
+- **Spatial AI:** Scene Coordinate Regression
 
 ## Education
 
