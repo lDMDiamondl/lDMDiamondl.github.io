@@ -1,18 +1,11 @@
 # The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
 
 main:
-  - title: "Hobby"
-    url: /hobby/
+  - title: "CV"
+    url: https://ldmdiamondl.github.io/Curriculum-Vitae/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: https://ldmdiamondl.github.io/Curriculum-Vitae/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Hobby"
+    url: /hobby/
