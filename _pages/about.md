@@ -29,7 +29,7 @@ I was an undergraduate researcher at [MINES Lab](https://prof.sejong.ac.kr/hyung
     <td style="border: none; vertical-align: middle;">
       <strong>[KETI]</strong> VLM Research Intern (2026.01 ~ 2026.02)
       <br>
-      <span style="font-size: 0.95em; color: #555;">On‑device VLM service using Phi‑4 on Jetson Orin and Raspberry Pi.</span>
+      <span style="font-size: 0.95em; color: #555;">On‑device VLM service using Phi‑4 on Jetson Orin.</span>
     </td>
   </tr>
 </table>
