@@ -11,7 +11,7 @@ redirect_from:
 .cv-container {
     font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     line-height: 1.6;
-    color: #333;
+    color: #494e52;
 }
 .cv-section {
     margin-bottom: 35px;
@@ -22,7 +22,7 @@ redirect_from:
     display: flex;
     align-items: center;
     margin-bottom: 18px;
-    color: inherit;
+    color: #494e52;
     border-bottom: 1px solid #ccc;
     padding-bottom: 5px;
 }
@@ -38,7 +38,7 @@ redirect_from:
 .cv-main-text {
     font-weight: bold;
     font-size: 17px;
-    color: inherit;
+    color: #494e52;
 }
 .cv-sub-text {
     color: #666;
@@ -55,7 +55,7 @@ redirect_from:
     margin: 6px 0 0 22px;
     padding: 0;
     font-size: 15px;
-    color: #444;
+    color: #494e52;
 }
 .cv-container li {
     margin-bottom: 5px;
@@ -67,7 +67,7 @@ redirect_from:
 .skill-category {
     font-weight: bold;
     min-width: 150px;
-    color: inherit;
+    color: #494e52;
 }
 .award-row {
     display: flex;
@@ -77,13 +77,13 @@ redirect_from:
     font-size: 15px;
 }
 .award-year {
-    color: inherit;
+    color: #494e52;
     margin-right: 20px;
     min-width: 40px;
 }
 .award-detail {
     flex: 1;
-    color: inherit;
+    color: #494e52;
 }
 .award-location {
     color: #666;
