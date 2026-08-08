@@ -238,6 +238,13 @@ redirect_from:
                 <span class="award-location">Seoul, S.Korea</span>
             </div>
         </div>
+        <div class="cv-item">
+            <div class="award-row">
+                <span class="award-year">2026</span>
+                <span class="award-detail"><strong>Encourage Prize</strong>, SMART Tournament 2026S</span>
+                <span class="award-location">Seoul, S.Korea</span>
+            </div>
+        </div>
     </div>
 
     <div class="cv-section" id="skills">
