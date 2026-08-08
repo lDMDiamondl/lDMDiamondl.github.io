@@ -136,7 +136,7 @@ redirect_from:
             </div>
             <div class="cv-row">
                 <span class="cv-details-text">Undergraduate Researcher</span>
-                <span class="cv-sub-text">Feb. 2026 - Present</span>
+                <span class="cv-sub-text">Feb. 2026 - Jul. 2026</span>
             </div>
         </div>
     </div>
