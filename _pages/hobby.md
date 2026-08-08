@@ -96,6 +96,14 @@ I translate video games as a hobby.
     </div>
 
     <div class="game-card">
+        <a href="https://everestapi.github.io/" target="_blank" class="game-card-img-link">
+            <img src="../images/game/everest.jpg" alt="Everest">
+        </a>
+        <span class="badge-official">Official</span>
+        <a href="https://github.com/EverestAPI/Everest" target="_blank" class="game-title-link">Everest</a>
+    </div>
+
+    <div class="game-card">
         <a href="https://maddymakesgamesinc.itch.io/celeste64" target="_blank" class="game-card-img-link">
             <img src="../images/game/cel64.jpg" alt="Celeste 64">
         </a>
