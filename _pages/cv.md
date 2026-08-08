@@ -128,9 +128,6 @@ redirect_from:
                 <span class="cv-details-text">Undergraduate Researcher</span>
                 <span class="cv-sub-text">Dec. 2023 - Jan. 2026</span>
             </div>
-            <ul>
-                <li>Developed and implemented various deep learning models for computer vision tasks, including Human Action Recognition (HAR) and Object Detection.</li>
-            </ul>
         </div>
         <div class="cv-item">
             <div class="cv-row">
