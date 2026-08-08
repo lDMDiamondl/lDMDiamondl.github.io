@@ -22,7 +22,7 @@ redirect_from:
     display: flex;
     align-items: center;
     margin-bottom: 18px;
-    color: #000;
+    color: inherit;
     border-bottom: 1px solid #ccc;
     padding-bottom: 5px;
 }
@@ -38,7 +38,7 @@ redirect_from:
 .cv-main-text {
     font-weight: bold;
     font-size: 17px;
-    color: #000;
+    color: inherit;
 }
 .cv-sub-text {
     color: #666;
@@ -67,7 +67,7 @@ redirect_from:
 .skill-category {
     font-weight: bold;
     min-width: 150px;
-    color: #000;
+    color: inherit;
 }
 .award-row {
     display: flex;
@@ -77,13 +77,13 @@ redirect_from:
     font-size: 15px;
 }
 .award-year {
-    color: #000;
+    color: inherit;
     margin-right: 20px;
     min-width: 40px;
 }
 .award-detail {
     flex: 1;
-    color: #000;
+    color: inherit;
 }
 .award-location {
     color: #666;
