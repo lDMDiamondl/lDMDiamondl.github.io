@@ -2,7 +2,7 @@
 
 main:
   - title: "CV"
-    url: https://ldmdiamondl.github.io/Curriculum-Vitae/
+    url: /cv/
 
   - title: "Publications"
     url: /publications/
