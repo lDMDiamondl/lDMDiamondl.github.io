@@ -10,12 +10,13 @@ redirect_from:
 ## About Me
 Hello there, Thanks for visiting my website!
  
-I was an undergraduate researcher at [MINES Lab](https://prof.sejong.ac.kr/hyungkim/html/lab.do), advised by Prof. [Hyungseok Kim](https://prof.sejong.ac.kr/hyungkim/index.do) at Sejong University, [Perceptual Lab](https://pailab.cau.ac.kr/), advised by Prof. [Chanho Eom](https://scholar.google.com/citations?user=3feNfdUAAAAJ) at Chung-ang University.
+I was an undergraduate researcher at [MINES Lab](https://prof.sejong.ac.kr/hyungkim/html/lab.do), advised by Prof. [Hyungseok Kim](https://prof.sejong.ac.kr/hyungkim/index.do) at Sejong University, [Perceptual AI Lab](https://pailab.cau.ac.kr/), advised by Prof. [Chanho Eom](https://scholar.google.com/citations?user=3feNfdUAAAAJ) at Chung-ang University.
 
 ## Research Interests
 
 - **Computer Vision:** Image Understanding, 3D Vision
 - **Spatial AI:** Scene Coordinate Regression
+- **HSI (Hyperspectral Image)**
 
 ## Education
 
