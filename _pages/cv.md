@@ -107,7 +107,7 @@ redirect_from:
                 <span class="cv-sub-text">Seoul, South Korea</span>
             </div>
             <div class="cv-row">
-                <span class="cv-details-text">B.S in AI Robotics</span>
+                <span class="cv-details-text">B.S in Dept. of Intelligent Mechatronics Engineering</span>
                 <span class="cv-sub-text">Mar. 2022 - Feb. 2027 (Expected)</span>
             </div>
             <ul>
