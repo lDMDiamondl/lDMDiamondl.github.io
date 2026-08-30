@@ -16,7 +16,7 @@ I was an undergraduate researcher at [MINES Lab](https://prof.sejong.ac.kr/hyung
 
 - **Computer Vision:** Image Understanding, 3D Vision
 - **Spatial AI:** Scene Coordinate Regression
-- **HSI (Hyperspectral Image)**
+- **HSI (Hyperspectral Image):** Image Restoration, Hyper-VLM
 
 ## Education
 
