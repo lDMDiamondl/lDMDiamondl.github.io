@@ -107,13 +107,13 @@ I translate video games as a hobby.
         <a href="https://maddymakesgamesinc.itch.io/celeste64" target="_blank" class="game-card-img-link">
             <img src="../images/game/cel64.jpg" alt="Celeste 64">
         </a>
-        <span class="badge-unofficial">Unofficial</span>
-        <a href="https://drive.google.com/file/d/1WiqUXRZdnliDlao40iN5-P9k9LZOk9B0" target="_blank" class="game-title-link">Celeste 64</a>
+        <span class="badge-official">Official</span>
+        <a href="https://github.com/EXOK/Celeste64" target="_blank" class="game-title-link">Celeste 64</a>
     </div>
 
     <div class="game-card">
         <a href="https://store.steampowered.com/app/1593310/NEKOPARA__Catboys_Paradise/" target="_blank" class="game-card-img-link">
-            <img src="../images/game/neko.jpg" alt="Neko Game">
+            <img src="../images/game/neko.jpg" alt="Nekopara_B">
         </a>
         <span class="badge-unofficial">Unofficial</span>
         <a href="https://drive.google.com/file/d/1jt1TiyN1zZepCjzhJOm3iNOS-cQaFgMg" target="_blank" class="game-title-link">NEKOPARA - Catboys Paradise</a>
