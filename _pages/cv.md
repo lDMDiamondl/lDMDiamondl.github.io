@@ -139,6 +139,16 @@ redirect_from:
                 <span class="cv-sub-text">Feb. 2026 - Jul. 2026</span>
             </div>
         </div>
+        <div class="cv-item">
+            <div class="cv-row">
+                <span class="cv-main-text">Spatial AI LAB (Advisor: Jehyeong Hong)</span>
+                <span class="cv-sub-text">Hanyang University</span>
+            </div>
+            <div class="cv-row">
+                <span class="cv-details-text">Undergraduate Researcher</span>
+                <span class="cv-sub-text">Aug. 2026 - Present</span>
+            </div>
+        </div>
     </div>
 
     <div class="cv-section" id="projects">
