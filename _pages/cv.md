@@ -208,10 +208,10 @@ redirect_from:
         <div class="cv-item">
             <div class="cv-row">
                 <span class="cv-main-text">Sejong AI Circle SAI</span>
-                <span class="cv-sub-text">Mar. 2025 - Feb. 2026</span>
             </div>
             <div class="cv-row">
                 <span class="cv-details-text">Member</span>
+                <span class="cv-sub-text">Mar. 2025 - Feb. 2026</span>
             </div>
             <ul>
                 <li>Led and mentored a study group of 4 junior members, focusing on foundational deep learning concepts like CNNs and RNNs.</li>
