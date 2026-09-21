@@ -10,7 +10,9 @@ redirect_from:
 ## About Me
 Hello there, Thanks for visiting my website!
  
-I was an undergraduate researcher at [MINES Lab](https://prof.sejong.ac.kr/hyungkim/html/lab.do), advised by Prof. [Hyungseok Kim](https://prof.sejong.ac.kr/hyungkim/index.do) at Sejong University, [Perceptual AI Lab](https://pailab.cau.ac.kr/), advised by Prof. [Chanho Eom](https://scholar.google.com/citations?user=3feNfdUAAAAJ) at Chung-ang University.
+I am currently an undergraduate researcher at [Spatial AI Lab](https://sail.hanyang.ac.kr/) at Hanyang University, advised by Prof. [Jehyeong Hong](https://scholar.google.com/citations?user=7axCcBkAAAAJ).
+
+Previously, I was an undergraduate researcher at [MINES Lab](https://prof.sejong.ac.kr/hyungkim/html/lab.do) at Sejong University, advised by Prof. [Hyungseok Kim](https://scholar.google.com/citations?user=QqYuXE8AAAAJ), and at [Perceptual AI Lab](https://pailab.cau.ac.kr/) at Chung-Ang University, advised by Prof. [Chanho Eom](https://scholar.google.com/citations?user=3feNfdUAAAAJ).
 
 ## Research Interests
 
