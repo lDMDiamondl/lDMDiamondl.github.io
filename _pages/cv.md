@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 <style>
+.page__title {
+    display: none;
+}
 .cv-container {
     font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     line-height: 1.6;
